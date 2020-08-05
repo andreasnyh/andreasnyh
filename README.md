@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I believe you have found your new Web Development intern
-for this fall 2020!
+I believe you have found your new **Web Development intern
+for this fall 2020!**
 
-I will be with you six months from week 42 to week 13 (October - April)
+I will be with you six months from week 42 to week 13 **(October - April)**
 with the possibility to extend the period for six-eight weeks
 to do a graduation project.
 
