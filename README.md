@@ -1,4 +1,4 @@
-### Hi there 👋
+# Congratulations 🎉
 
 <!--
 **andreasnyh/andreasnyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I believe you have found your new Web Development intern
+for this fall 2020!
+
+I will be with you six months from week 42 to week 13 (October - April)
+with the possibility to extend the period for six-eight weeks
+to do a graduation project.
+
+Some of the things I've learnt:
+
+JavaScript, React, Angular,
+Node, TDD, MVC, MongoDB,
+PHP, Laravel, MySQL,
+HTML, CSS and more.
+
+## [All the courses ⬅](https://www.notion.so/Kursplaner-999a867632224a708042fbe5a98fcc90)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andreasnyh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
