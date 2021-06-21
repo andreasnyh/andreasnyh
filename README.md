@@ -1,4 +1,4 @@
-# Congratulations 🎉
+# Welcome 🎉
 
 <!--
 **andreasnyh/andreasnyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 2020
 I believe you have found your new **Web Development intern
 for this fall 2020!**
 
@@ -22,6 +23,16 @@ I will be with you six months from week 42 to week 13 **(October - April)**\
 with the possibility to extend the period for six-eight weeks to do a graduation project.
 
 Some of the things I've learnt:
+
+JavaScript, React, Angular,\
+Node, TDD, MVC, MongoDB,\
+PHP, Laravel, MySQL,\
+HTML, CSS and more. -->
+Currently working as a Fullstack Developer at EdAider mostly using React and Python.
+
+Studied Fullstack Webdevelopment at Chas Academy in Stockholm, Sweden 2019-2021.
+
+Where I learnt:
 
 JavaScript, React, Angular,\
 Node, TDD, MVC, MongoDB,\
