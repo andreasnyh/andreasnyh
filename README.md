@@ -2,8 +2,8 @@
 
 Fullstack and platform engineer at EdAider in Stockholm.
 
-I build and run the platforms behind AI-supported learning tools used by
-Swedish schools and municipalities. React and TypeScript on the frontend,
+I work on and run the platforms behind AI-supported learning tools used
+by Swedish schools and municipalities. React and TypeScript on the frontend,
 Python with FastAPI and Django on the backend, and Kubernetes, CI/CD and
 production operations underneath.
 
